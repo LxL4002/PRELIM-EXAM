@@ -5,13 +5,12 @@ This activity focuses on developing a personal brand through the intentional use
 
 ## Color Palette
 
-The personal brand uses three main colors:
+My personal brand uses three main colors:
 
 - **#2C1E1E** — A deep brown shade that adds warmth, depth, and sophistication to the design.
 - **#CBB7A3** — A soft beige tone that creates a calm and refined appearance while complementing the darker color.
 - **#FFFFFF** — White provides contrast and clean space, helping the other elements stand out and keeping the overall design balanced.
 
-Together, these colors create a warm, elegant, and cohesive visual identity.
 
 ## Typography
 
@@ -19,11 +18,11 @@ Different typefaces were selected for specific purposes to create visual hierarc
 
 ### Logo Font — Callen
 
-Callen is used as the primary font for the logo. Its distinctive and elegant appearance helps establish a recognizable visual identity.
+I used Callen as the primary font for the logo. Its distinctive and elegant appearance helps establish a recognizable visual identity.
 
 ### Logo Accent Font — The Seasons
 
-The Seasons is used as an accent font in the logo. It adds a decorative and sophisticated element that complements the main logo font.
+For the accent font of my logo, I used The Seasons. It adds a decorative and sophisticated element that complements the main logo font.
 
 ### Body Font — Quicksand
 
@@ -31,7 +30,7 @@ Quicksand is used for the body text because of its clean and readable appearance
 
 ### Tagline Fonts — Brittant and Cormorant Garamond
 
-Brittant and Cormorant Garamond are used for the tagline to add an elegant and expressive quality. Their combination creates emphasis while complementing the other typography used in the design.
+To add an elegant and expressive quality to the tagline, I have used the fonts Brittany and Cormorant Garamond. Their combination creates emphasis while complementing the other typography used in the design.
 
 ### How the Color Palette and Typography Support the Personal Brand
 
