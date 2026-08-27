@@ -32,3 +32,5 @@ Applying these design principles made my poster more organized, attractive, and 
 
 ## Output
 
+<img src="https://github.com/user-attachments/assets/895e41e3-e376-439b-a3a8-c5159cb93dd5" alt="ACTIVITY 1 - GE 4120_COSTILLAS" width="100%" />
+
