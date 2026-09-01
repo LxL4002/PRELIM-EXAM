@@ -38,17 +38,17 @@ The infographic uses three main fonts:
 
 Icons and visual elements were used to make the infographic more engaging and easier to understand. These include:
 
-- Clouds and raindrops to represent weather and rainfall
-- Lightning to represent severe weather conditions
-- Damaged homes to represent the effects of flooding
-- Health protection to represent community safety
-- Families to represent the people affected by flooding
-- Economic losses to represent the financial impact of disasters
-- IoT sensors to represent real-time monitoring
-- Cloud data storage to represent the collection and management of information
-- Risk analysis to represent the assessment of flood conditions
-- Mobile alerts to represent communication and early warnings
-- Alert-level indicators to show different levels of flood risk
+- ☁️🌧️ **Clouds and raindrops** to represent weather and rainfall
+- ⚡ **Lightning** to represent severe weather conditions
+- 🏚️🌊 **Damaged homes** to represent the effects of flooding
+- 🛡️❤️ **Health protection** to represent community safety
+- 👨‍👩‍👧‍👦 **Families** to represent the people affected by flooding
+- 💰📉 **Economic losses** to represent the financial impact of disasters
+- 📡📟 **IoT sensors** to represent real-time monitoring
+- ☁️💾 **Cloud data storage** to represent the collection and management of information
+- 📊⚠️ **Risk analysis** to represent the assessment of flood conditions
+- 📱🔔 **Mobile alerts** to represent communication and early warnings
+- 🟢🟡🔴 **Alert-level indicators** to show different levels of flood risk
 
 These visual elements help communicate the information quickly and make the infographic more understandable for a social media audience.
 
