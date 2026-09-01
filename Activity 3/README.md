@@ -1,4 +1,4 @@
-# Activity 3: Social Media Infographics and Mini Project Documentation
+<h1 align="center">📱Activity 3: Social Media Infographics and Mini Project Documentation
 
 ## Description
 
