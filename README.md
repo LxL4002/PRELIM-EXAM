@@ -13,7 +13,7 @@
 
 This repository contains the activities and outputs completed during the Prelim quarter. The files are organized by activity for easy access and documentation.
 
-## Activities
+## Activities:
 
 ### Activity 1: Presentation Design Principles
 Outputs related to the principles and techniques of effective presentation design.
