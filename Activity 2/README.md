@@ -8,9 +8,9 @@ This activity focuses on developing a personal brand through the intentional use
 
 My personal brand uses three main colors:
 
-- **#2C1E1E** — A deep brown shade that adds warmth, depth, and sophistication to the design.
-- **#CBB7A3** — A soft beige tone that creates a calm and refined appearance while complementing the darker color.
-- **#FFFFFF** — White provides contrast and clean space, helping the other elements stand out and keeping the overall design balanced.
+- **Dark Gray Red** **[#2C1E1E]** ⬛ — A deep brown shade that adds warmth, depth, and sophistication to the design.
+- **Pastel Gray Orange** **#CBB7A3** 🟫 — A soft beige tone that creates a calm and refined appearance while complementing the darker color.
+- **White** **#FFFFFF** ⬜ — White provides contrast and clean space, helping the other elements stand out and keeping the overall design balanced.
 
 
 ## Typography
