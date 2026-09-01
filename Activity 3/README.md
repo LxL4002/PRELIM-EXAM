@@ -17,11 +17,11 @@ The system is designed to monitor flood-related conditions, analyze risks, and p
 
 The infographic uses a combination of colors to communicate different ideas and create visual emphasis.
 
-- **Dark and Medium Blue** — Represents water, technology, reliability, and the seriousness of the flood-monitoring system.
-- **Yellow** — Represents warning, attention, and the need to be alert.
-- **Cream/Off-White** — Provides a clean and neutral background that improves readability and balances the stronger colors.
-- **Red** — Represents danger, emergencies, and high-risk situations.
-- **Green** — Represents safety, protection, and a positive response to flood risks.
+- 🔵 **Dark and Medium Blue** — Represents water, technology, reliability, and the seriousness of the flood-monitoring system.
+- 🟡 **Yellow** — Represents warning, attention, and the need to be alert.
+- ⚪ **Cream/Off-White** — Provides a clean and neutral background that improves readability and balances the stronger colors.
+- 🔴 **Red** — Represents danger, emergencies, and high-risk situations.
+- 🟢 **Green** — Represents safety, protection, and a positive response to flood risks.
 
 The combination of these colors helps communicate the seriousness of flooding while also emphasizing the role of technology in providing warnings and protection.
 
