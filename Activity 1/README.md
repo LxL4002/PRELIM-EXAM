@@ -1,4 +1,4 @@
-# Activity 1: Presentation Design Principles
+<h1 align="center"> ☕ Activity 1: Presentation Design Principles
 
 ## Description
 
@@ -26,7 +26,7 @@ I distributed the text and visual elements across the poster to create a balance
 
 I kept the design simple and focused only on the important information about the free coffee. This allows the audience to understand the message quickly without being distracted by unnecessary elements.
 
-## How the Design Principles Improved the Presentation
+##  💭 How the Design Principles Improved the Presentation
 
 Applying these design principles made my poster more organized, attractive, and easier to understand. The use of visual hierarchy and contrast helped emphasize the main announcement, while alignment and balance created a cleaner layout. Keeping the design simple also allowed the message to be communicated quickly and effectively.
 
