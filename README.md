@@ -1,4 +1,4 @@
-# PRELIM-EXAM
+<div align="center"> PRELIM-EXAM
 
 ## Compilation of Prelim Activities and Outputs
 
