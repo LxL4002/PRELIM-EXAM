@@ -1,4 +1,5 @@
-# Activity 2 — Personal Branding
+<h1 align="center">✨ Activity 2:Personal Branding
+
 ## Description
 
 This activity focuses on developing a personal brand through the intentional use of color and typography. The design choices were selected to create a consistent, elegant, and professional visual identity.
